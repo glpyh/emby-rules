@@ -121,5 +121,6 @@ payload:
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,cristiamo.xyz
+  - DOMAIN-SUFFIX,mjjemby.org
   - IP-CIDR,161.97.148.156/24,no-resolve
   - DOMAIN-SUFFIX,emby.cristiamo.top
