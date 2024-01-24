@@ -181,6 +181,8 @@ HOST-SUFFIX,emby.ytoo.li,Emby
 
 ##### 未分类 #####
 
+HOST-SUFFIX,embymv.tk,PROXY
+
 HOST-SUFFIX,emby.mdss.cloud,Emby
 HOST-SUFFIX,embyserver.ga,Emby
 HOST-SUFFIX,emby.nyancat.net,Emby
@@ -200,7 +202,6 @@ HOST-SUFFIX,gfwemby.org,Emby
 HOST-SUFFIX,loseremby.org,Emby
 HOST-SUFFIX,magpie.cyou,Emby
 HOST-SUFFIX,speedx.one,Emby
-HOST-SUFFIX,embymv.tk,Emby
 HOST-SUFFIX,bddup.com,Emby
 HOST-SUFFIX,emby.cl,Emby
 HOST-SUFFIX,emby.ml,Emby
